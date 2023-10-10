@@ -10,4 +10,4 @@ class Solution(object):
 
             ans = min(ans, n - (idx - i))
         return ans
-        
+          
